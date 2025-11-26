@@ -1,0 +1,49 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "**Curso: Agente de Fiscalização de Trânsito**"
+  subtitle: "**Disciplina: Legislação de Trânsito**"
+  date: "11/11/2025"
+  author:
+    name: Mário Diego Rocha Valente
+    orcid: 0000-0001-7262-3336
+    corresponding: TRUE
+    affiliation:
+        name: Analista de Trânsito/DETRAN-PA
+        url: mariovalente@detran.pa.gov.br
+  page-footer:
+    left: |
+      Was Written by (**VALENTE, M.D.R - 2025**).
+    right: |
+      DETRAN-PA.
+  cover-image: CAPA2A.png
+  favicon: CAPA.png
+  repo-url: https://github.com/MarioDhiego
+  repo-subdir: book
+  repo-branch: main           # master
+  repo-actions: [edit, issue, source]
+  sharing: [twitter, linkedin]
+  downloads: [pdf, docx]
+  page-navigation: TRUE
+  reader-mode: TRUE  
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - conceitos.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

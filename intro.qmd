@@ -1,0 +1,80 @@
+```{=html}
+<style>
+body{text-align: justify}
+</style>
+```
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+# **INTRODUÇÃO**
+## **Legislação de Trânsito Brasileira**
+
+-   A Legislação de Trânsito engloba conhecimentos decaráter histórico, social, econômico e, principalmente, jurídico;
+
+-   A competência para legislar sobre trânsito etransporte é PRIVATIVA da União, conforme o dispostono art. 22, inciso XI, da CRFB/88;
+
+-   Entretanto, é competência administrativa COMUM, PARALELA e CUMULATIVA da União, dos Estados, Distrito Federal e Municípios estabelecer e implantar política de educação para a segurança do trânsito, nos termos do art. 23, inciso XII, da CRFB/88;
+
+-   No âmbito da competência legislativa, foi instituído oCódigo de Trânsito Brasileiro (CTB), por meio da Lei nº 9.503, de 23 de setembro de 1997, publicada em 24de setembro daquele ano, entrando em vigor 120(cento e vinte) dias depois, em 22 de janeiro de 1998, revogando o Código Nacional de Trânsito(CNT) –Lei nº 5.108 de 21 de setembro de 1966.
+
+-   Partiu dos estudos feitos por uma Comissão que seformou e começou a se reunir desde 1991, cominúmeros debates, seminários, congressos, audiênciaspúblicas, etc, resultando no anteprojeto que foi encaminhado à Câmara dos Deputados e tramitoudesde 1993, tendo depois sido enviado ao SenadoFederaL e finalmente retornado à Câmara.
+
+-   Com o primeiro Código de Trânsito, em 1941, oBrasil iniciou uma caminhada incessante na busca damelhoria da qualidade de vida no trânsito e a evoluçãofoi ocorrendo com o Código Nacional de Trânsito em1966, sua regulamentação em 1968 e agora com oCódigo de Trânsito Brasileiro de 1997 (ALMEIDA. p. 2, 2012);
+
+-   Dessa forma a legislação de trânsito brasileira passapor alterações ainda nos dias atuais a exemplo dasúltimas alterações recentes que entraram em vigor dia19/04/2022 (cf. Lei nº 14.229, de 21/10/2021) e dia22/08/2022 (cf. Lei nº 14.304, de 23/02/2022), e outraque entrará em vigor dia 01/01/2027 (cf. Lei nº 14.440, de 02/09/2022);
+
+-   A realidade nacional modificou em relação ao contextoda edição do revogado Código Nacional de Trânsito, impondo e demandando uma legislação maisampla e rígida, que pudesse contemplar a transformação social, cultural e econômica evidenciada no país.
+
+-   O trânsito brasileiro é regulamentado pela Lei nº 9.503/97, e pelas Resoluções complementares(CONTRAN). Além do CTB e das Resoluções, osEstados complementam a legislação por meio de Portarias, Resoluções (CETRAN) e Decretos.
+
+-   Os órgãos de trânsito municipais também têmautonomia para normatizar detalhes do trânsito, quenão são os mesmos em todas as cidades, exigindoatenção por parte dos condutores.
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## **Importância da Legislação de Trânsito**
+
+Conhecer as leis de trânsito é de extrema importânciapara todos os brasileiros que utilizam das vias públicas, notadamente:
+
+-   Conhecer os nossos **direitos** e **deveres**;
+-   Aplicar o conhecimento em nosso cotidiano, corrigindo os procedimentos inadequados no trânsito;
+-   Contribuir para um trânsito mais seguro, sendo umagente multiplicador da segurança no trânsito.
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
+
+## **Finalidade da Legislação de Trânsito**
+
+-   A Legislação de Trânsito tem por finalidade assegurar aintegridade do indivíduo, seja ele condutor ou pedestre, permitindo que ele transite e alcance seu destino semsofrer dano algum.
+
+-   Teve por objetivo distribuir as responsabilidades com ointuito de combater o trágico cenário de mortes, lesões, mutilações de pessoas e destruição de patrimônio
+
+-   Responsabilidade coletiva na manutenção da ordem eda segurança do trânsito, no sentido de educar paraprevenir a prática de infrações que colocam em risco aintegridade física das pessoas e do patrimônio.
+
+## **Constituição Federal**
+
+**Art. 144 da CRFB/88 :** A SEGURANÇA PÚBLICA, dever do Estado, direito e responsabilidade de todos, é exercida para a PRESERVAÇÃO DA ORDEM PÚBLICA E DA INCOLUMIDADE DAS PESSOAS E DO PATRIMÔNIO, através dos seguintes órgãos:
+
+::: {.callout-tip collapse="false"}
+"**(...) omissis”**".
+:::
+
+
+
+
+**§ 10**. A SEGURANÇA VIÁRIA, exercida para apreservação da ordem pública e da incolumidade das pessoas e do seu patrimônio nas vias públicas:
+
+-   **I** - compreende a educação, engenharia e fiscalizaçãode trânsito, além de outras atividades previstas em lei, que assegurem ao cidadão o direito à mobilidadeurbana eficiente;
+-   **II** - compete, no âmbito dos Estados, do Distrito Federal e dos Municípios, aos respectivos órgãos ou entidadesexecutivos e seus agentes de trânsito, estruturadosem Carreira, na forma da lei.
+
+:::: progress
+::: {.progress-bar style="width: 100%;"}
+:::
+::::
